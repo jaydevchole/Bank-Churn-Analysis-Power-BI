@@ -21,10 +21,6 @@ Power BI dashboard for analyzing bank customer churn using demographic and finan
 - Dynamic KPIs
 - Drill-down enabled visuals
 
-## 📁 Project Files
-- 📊 [Power BI Dashboard (.pbix)](./Bank%20Churn%20Analysis%20Dashboard.pbix)
-- 📄 [Dataset (.csv)](./Bank%20Churn%20Dataset.csv)
-
 ## 🛠 Tools Used
 - Power BI
 - DAX
